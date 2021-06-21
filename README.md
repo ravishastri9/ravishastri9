@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola, I m Ravi Shastri👋
 
-<!--
-**ravishastri9/ravishastri9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ 
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Python, Javascript
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about Python, SQl, HTML
+- 📫 How to reach me: 
+- 😄 Pronouns: HE/HIS
+- ⚡ Fun fact: If I could have any superpower, it would be THOR.
+
+<img src ="https://github-readme-stats.vercel.app/api?username=ravishastri9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=FFFFFF&bg_color=000000">
+ 
