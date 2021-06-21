@@ -1,9 +1,9 @@
 ### Hola, I m Ravi Shastri👋
 
  
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on to b updated
 - 🌱 I’m currently learning Python, Javascript
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Still thinking
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Python, SQl, HTML
 - 📫 How to reach me: Twitter - [@Shastri](https://twitter.com/ravisha15749806)
