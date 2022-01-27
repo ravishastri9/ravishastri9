@@ -1,8 +1,8 @@
 ### Hola, I m Ravi Shastri👋
 
  
-- 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Python, Javascript, Machine Learning
+- 🔭 I’m currently working on Java Full_Stack.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on Still thinking
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Python, SQl, HTML
