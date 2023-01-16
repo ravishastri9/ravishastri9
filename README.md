@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Still thinking
 - 🤔 I’m looking for help with Java and React.
 - 💬 Ask me about Python, SQl, HTML.
-- 📫 How to reach me: Twitter - [@Shastri](https://twitter.com/ravisha15749806)
+- 📫 How to reach me: Twitter - [ravishastri9031@gmail.com](\href{mailto:ravishastri9031@gmail.com)
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: If I could have any superpower, it would be THOR.
 
