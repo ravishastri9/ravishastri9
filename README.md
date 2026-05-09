@@ -1,8 +1,8 @@
-### Hola, I m Ravi Shastri👋
+### Hola, I'm Ravi Shastri👋
 
  
-- 🔭 I’m currently working on Java Full_Stack.
-- 🌱 I’m currently learning Java & React.js
+- 🔭 I’m currently working on Java Full Stack.
+- 🌱 I’m currently learning Java & DSA
 - 👯 I’m looking to collaborate on Still thinking
 - 🤔 I’m looking for help with Java and React.
 - 💬 Ask me about Python, SQl, HTML.
