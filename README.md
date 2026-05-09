@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java & DSA
 - 👯 I’m looking to collaborate on Still thinking
 - 🤔 I’m looking for help with Java and React.
-- 💬 Ask me about Spring Boot, SQL and Microservices.
+- 💬 Ask me about SpringBoot, SQL and Microservices.
 - 📫 How to reach me: Gmail - [ravishastri9031@gmail.com](https://ravishastri9031@gmail.com)
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: If I could have any superpower, it would be THOR.
